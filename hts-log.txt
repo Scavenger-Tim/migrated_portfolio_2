@@ -1,0 +1,40 @@
+HTTrack3.50-5 launched on Wed, 07 Oct 2026 21:36:29 at https://sites.google.com/view/timothee-meyer-portfolio +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://sites.google.com/view/timothee-meyer-portfolio -O1 "C:\My Web Sites\google_site_export_1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:36:31	Warning: 	Over-long header dropped for https://sites.google.com/view/timothee-meyer-portfolio
+21:36:32	Warning: 	Over-long header dropped for https://sites.google.com/robots.txt
+21:36:36	Warning: 	Over-long header dropped for https://sites.google.com/view/timothee-meyer-portfolio/accueil
+21:36:38	Warning: 	Over-long header dropped for https://sites.google.com/view/timothee-meyer-portfolio/group-projects/mirage-2000-d-19
+21:36:39	Warning: 	Over-long header dropped for https://sites.google.com/view/timothee-meyer-portfolio/group-projects/weber-boreal
+21:36:42	Warning: 	Over-long header dropped for https://sites.google.com/view/timothee-meyer-portfolio/group-projects/e-bike-suv-frame
+21:36:44	Warning: 	Over-long header dropped for https://sites.google.com/view/timothee-meyer-portfolio/group-projects/mecalac-cr9
+21:36:46	Warning: 	Over-long header dropped for https://sites.google.com/view/timothee-meyer-portfolio/design/figu-chair
+21:36:49	Warning: 	Over-long header dropped for https://sites.google.com/view/timothee-meyer-portfolio/design/nurbs-car-surface-modeling
+21:36:50	Warning: 	Over-long header dropped for https://sites.google.com/view/timothee-meyer-portfolio/design/free-sketching
+21:36:52	Warning: 	Over-long header dropped for https://sites.google.com/view/timothee-meyer-portfolio/design/product-sketching-exercices
+21:36:54	Warning: 	Over-long header dropped for https://sites.google.com/view/timothee-meyer-portfolio/cae/extraction-bucket
+21:36:56	Warning: 	Over-long header dropped for https://sites.google.com/view/timothee-meyer-portfolio/cae/composite-bike-frame
+21:36:57	Warning: 	Over-long header dropped for https://sites.google.com/view/timothee-meyer-portfolio/ergonomics/hmi-cd-player-redesign
+21:36:57	Warning: 	Found for https://sites.google.com/view/_/ss/
+21:36:57	Warning: 	File has moved from https://sites.google.com/view/_/ss/ to https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://sites.google.com/view/_/ss/&followup=https://sites.google.com/view/_/ss/
+21:37:17	Error: 	"Not Found" (404) at link https://sites.google.com/view/timothee-meyer-portfolio/_/ss/ (from https://sites.google.com/view/timothee-meyer-portfolio/accueil)
+21:37:17	Error: 	"Not Found" (404) at link https://sites.google.com/view/timothee-meyer-portfolio/group-projects/_/ss/ (from https://sites.google.com/view/timothee-meyer-portfolio/group-projects/mirage-2000-d-19)
+21:37:17	Error: 	"Not Found" (404) at link https://sites.google.com/view/timothee-meyer-portfolio/group-projects/"https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script> (from https://sites.google.com/view/timothee-meyer-portfolio/group-projects/weber-boreal)
+21:37:17	Error: 	"Not Found" (404) at link https://sites.google.com/view/timothee-meyer-portfolio/group-projects/"https://raw.githubusercontent.com/Scavenger-Tim/3d_renders/main/weber2.glb" (from https://sites.google.com/view/timothee-meyer-portfolio/group-projects/weber-boreal)
+21:37:17	Error: 	"Not Found" (404) at link https://sites.google.com/view/timothee-meyer-portfolio/group-projects/"https://raw.githubusercontent.com/Scavenger-Tim/3d_renders/main/bike1.glb" (from https://sites.google.com/view/timothee-meyer-portfolio/group-projects/e-bike-suv-frame)
+21:37:17	Error: 	"Not Found" (404) at link https://sites.google.com/view/timothee-meyer-portfolio/group-projects/"https://raw.githubusercontent.com/Scavenger-Tim/3d_renders/main/cr15blend.glb" (from https://sites.google.com/view/timothee-meyer-portfolio/group-projects/mecalac-cr9)
+21:37:17	Error: 	"Not Found" (404) at link https://sites.google.com/view/timothee-meyer-portfolio/design/_/ss/ (from https://sites.google.com/view/timothee-meyer-portfolio/design/figu-chair)
+21:37:17	Error: 	"Not Found" (404) at link https://sites.google.com/view/timothee-meyer-portfolio/design/"https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script> (from https://sites.google.com/view/timothee-meyer-portfolio/design/figu-chair)
+21:37:17	Error: 	"Not Found" (404) at link https://sites.google.com/view/timothee-meyer-portfolio/design/"https://raw.githubusercontent.com/Scavenger-Tim/3d_renders/main/chair1.glb" (from https://sites.google.com/view/timothee-meyer-portfolio/design/figu-chair)
+21:37:17	Error: 	"Not Found" (404) at link https://sites.google.com/view/timothee-meyer-portfolio/design/"https://raw.githubusercontent.com/Scavenger-Tim/3d_renders/main/car3.glb" (from https://sites.google.com/view/timothee-meyer-portfolio/design/nurbs-car-surface-modeling)
+21:37:19	Error: 	"Not Found" (404) at link https://sites.google.com/view/timothee-meyer-portfolio/cae/_/ss/ (from https://sites.google.com/view/timothee-meyer-portfolio/cae/extraction-bucket)
+21:37:19	Error: 	"Not Found" (404) at link https://sites.google.com/view/timothee-meyer-portfolio/ergonomics/_/ss/ (from https://sites.google.com/view/timothee-meyer-portfolio/ergonomics/hmi-cd-player-redesign)
+
+HTTrack Website Copier/3.50-5 mirror complete in 50 seconds : 28 links scanned, 14 files written (2423536 bytes overall) [1103900 bytes received at 22078 bytes/sec], 4289355 bytes transferred using HTTP compression in 26 files, ratio 23%
+(12 errors, 16 warnings, 0 messages)
+(Some links above the start directory were not mirrored. Pass -B (--can-go-up-and-down) to mirror them.)
